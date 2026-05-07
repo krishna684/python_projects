@@ -1,0 +1,12 @@
+rent,850.5,housing
+Chipotle,13.5,food
+electricity,35.9,housing
+Starbucks,5.7,food
+Wendy's,10.8,food
+gas,30.2,transportation
+salary,2000,income
+oil change,50,transportation
+from mom,500,income
+internet,60,housing
+t-shirt,30,personal
+sold old TV,200,income
