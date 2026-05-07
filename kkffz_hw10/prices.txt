@@ -1,0 +1,11 @@
+desk,199.9
+sticky note,4.5
+computer,1050
+lamp,38.5
+pen,two
+couch,599.9
+
+notebook,10
+headphone
+ruler,5.9
+wallet,59.8,61.8
