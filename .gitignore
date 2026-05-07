@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Old folder names (before reorganization)
+kkffz_hw01/
+kkffz_hw02/
+kkffz_hw03/
+kkffz_hw04/
+kkffz_hw05/
+kkffz_hw05_kkffz/
+kkffz_hw06/
+kkffz_hw07/
+kkffz_hw08/
+kkffz_hw09/
+kkffz_hw10/
+kkffz_hw11/
+kkffz_midterm/
+kkffz__FinalProj/
+
+# Zip files
+*.zip
+
+# Root-level loose files
+train.py
+wage.py
+
+# IDE and editor settings
+.claude/
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
